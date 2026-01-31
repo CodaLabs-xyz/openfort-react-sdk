@@ -9,7 +9,12 @@ Wallets embebidas con autenticación por email usando Openfort React SDK. Sin fr
 ## 🎥 Video Tutorial
 
 Este repositorio acompaña el video tutorial de CodaLabs:
-**[Openfort React SDK: Wallets Embebidas en tu App Web](https://youtube.com/@CodaLabs)**
+
+<a href="https://www.youtube.com/watch?v=-1EY1OVAEV4">
+  <img src="https://img.youtube.com/vi/-1EY1OVAEV4/maxresdefault.jpg" alt="Openfort React SDK Tutorial" width="600">
+</a>
+
+▶️ **[Ver en YouTube: Openfort React SDK - Wallets Embebidas en tu App Web](https://www.youtube.com/watch?v=-1EY1OVAEV4)**
 
 ## ✨ Características
 
