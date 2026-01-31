@@ -65,7 +65,7 @@ sequenceDiagram
 ## 📁 Estructura del Proyecto
 
 ```
-openfort-react-sdk/
+openfort-react-demo/
 ├── app/
 │   ├── layout.tsx        # Layout con providers
 │   ├── page.tsx          # Página principal
@@ -86,8 +86,8 @@ openfort-react-sdk/
 ### 1. Clonar el Repositorio
 
 ```bash
-git clone https://github.com/CodaLabs-xyz/openfort-react-sdk.git
-cd openfort-react-sdk
+git clone https://github.com/CodaLabs-xyz/openfort-react-demo.git
+cd openfort-react-demo
 ```
 
 ### 2. Instalar Dependencias
